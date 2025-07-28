@@ -3,6 +3,6 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --sans: 'Raleway', 'sans-serif';
-  --opensans: 'Open Sans', 'sans-serif';
+  --font-Raleway: 'Raleway', 'sans-serif';
+  --font-opensans: 'Open Sans', 'sans-serif';
 }
